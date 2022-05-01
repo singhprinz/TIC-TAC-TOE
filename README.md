@@ -1,2 +1,2 @@
-# TIC-TAC-TOE-
+# TIC-TAC-TOE
 A game using c programming
